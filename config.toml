@@ -50,7 +50,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "dark"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -67,7 +67,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "rb643 [@] medschl.cam.ac.uk"
-  address = "Douglash House, Department of Psychiatry, University of Cambridge"
+  address = "Douglas House, Department of Psychiatry, University of Cambridge"
   phone = ""
   skype = ""
   telegram = ""
@@ -100,8 +100,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = ""
-  latitude = "51.9650355"
-  longitude = "-1.1175201"
+  latitude = "52.187091"
+  longitude = "0.121862"
   zoom = 15
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
@@ -270,25 +270,25 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+# [[menu.main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 3
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+# [[menu.main]]
+#   name = "Teaching"
+#   url = "#teaching"
+#   weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 4
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

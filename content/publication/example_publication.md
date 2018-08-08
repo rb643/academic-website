@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Structural Covariance Networks in Children with Autism or ADHD"
 
 # Date first published.
 date = "2013-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["Richard A. I. Bethlehem","Rafael Romero-Garcia","Elijah Mak","Edward T. Bullmore","Simon Baron-Cohen"]
 
 # Publication type.
 # Legend:
@@ -16,14 +16,17 @@ authors = ["First author's name", "Second author's name"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "In *Cerebral Cortex*."
+publication_short = "In *Cer. Cortex*"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
+abstract = "**Background**: While autism and attention-deficit/hyperactivity disorder (ADHD) are considered distinct conditions from a diagnostic perspective, clinically they share some phenotypic features and have high comorbidity. Regardless, most studies have focused on only one condition, with considerable heterogeneity in their results. Taking a dual-condition approach might help elucidate shared and distinct neural characteristics.
+**Method**: Graph theory was used to analyse topological properties of structural covariance networks across both conditions and relative to a neurotypical (NT; n = 87) group using data from the ABIDE (autism; n = 62) and ADHD-200 datasets (ADHD; n = 69). Regional cortical thickness was used to construct the structural covariance networks. This was analysed in a theoretical framework examining potential differences in long and short-range connectivity, with a specific focus on relation between central graph measures and cortical thickness.
+**Results**: We found convergence between autism and ADHD, where both conditions show an overall decrease in CT covariance with increased Euclidean distance between centroids compared with a NT population. The 2 conditions also show divergence. Namely, there is less modular overlap between the 2 conditions than there is between each condition and the NT group. The ADHD group also showed reduced cortical thickness and lower degree in hub regions than the autism group. Lastly, the ADHD group also showed reduced wiring costs compared with the autism groups.
+**Conclusions**: Our results indicate a need for taking an integrated approach when considering highly comorbid conditions such as autism and ADHD. Furthermore, autism and ADHD both showed alterations in the relation between inter-regional covariance and centroid distance, where both groups show a steeper decline in covariance as a function of distance. The 2 groups also diverge on modular organization, cortical thickness of hub regions and wiring cost of the covariance network. Thus, on some network features the groups are distinct, yet on others there is convergence."
 abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
@@ -39,7 +42,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "files/bhx135.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -62,9 +65,9 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "AutismADHD.png"
 caption = "My caption 😄"
 
 +++
 
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
+Further details.

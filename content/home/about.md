@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Brain Imaging",
+    "Neuroscience",
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Transcriptomics",
+    "Genetics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Psychiatry"
+  institution = "University of Cambridge"
+  year = 2017
+
+[[education.courses]]
+  course = "MSc. Neuroscience & Cognition"
+  institution = "Utrecht University"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MA. Philosophy"
+  institution = "University of Amsterdam"
   year = 2008
- 
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I currently am a Research Associate at the Autism Research Centre and collaborate with the Geschwind lab at UCLA and the MICA lab at McGill to work on integrated Neuroimaging and Transcriptomics in order to gain better understanding of genetic underpinnings of atypical neurodevelopment. My work is graciously funded by the Autism Research Trust, Marmaduke Sheild Fund and a Parke Davis Exchange fellowship.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I conducted my PhD in Cambridge between 2013 and 2017, funded by the MRC, Pinsent Darwin Trust, and CHESS (Cambridge Home and EU Scholarship Scheme) studying the effects of oxytocin and testosterone administration on resting state and task neural activation in the typical and autistic brain.
