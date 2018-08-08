@@ -16,7 +16,7 @@ authors = ["Rafael Romero-Garcia","Varun Warrier","Edward T. Bullmore","Simon Ba
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Molecular Psychiatry*."
@@ -36,7 +36,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["Imaging-Genetics"]
+projects = [""]
 
 # Links (optional).
 url_pdf = "files/s41380-018-0023-7.pdf"
