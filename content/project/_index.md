@@ -1,18 +1,11 @@
-+++
-title = "Projects"
-date = 2017-01-01T00:00:00
-math = false
-highlight = false
+---
+title: "Projects"
+hero_image: "hero.jpg"
+nometadata: true
+notags: true
+noshare: true
+nocomments: true
+---
 
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = APA
-#   3 = MLA
-list_format = 3
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
-+++
+<h2>Minimal Academic</h2>
+This site, written using Hugo and inspired by <a href="https://sourcethemes.com/academic/">Academic</a> and <a href="https://mmistakes.github.io/minimal-mistakes/">Minimal Mistakes</a>.
