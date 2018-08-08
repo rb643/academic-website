@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Molecular Psychiatry*"
-publication_short = "In *Mol Psych*"
+publication_short = "In *Mol Psych 2018*"
 
 # Abstract and optional shortened version.
 abstract = "Differences in cortical morphology—in particular, cortical volume, thickness and surface area—have been reported in individuals with autism. However, it is unclear what aspects of genetic and transcriptomic variation are associated with these differences. Here we investigate the genetic correlates of global cortical thickness differences (ΔCT) in children with autism. We used Partial Least Squares Regression (PLSR) on structural MRI data from 548 children (166 with autism, 295 neurotypical children and 87 children with ADHD) and cortical gene expression data from the Allen Institute for Brain Science to identify genetic correlates of ΔCT in autism. We identify that these genes are enriched for synaptic transmission pathways and explain significant variation in ΔCT. These genes are also significantly enriched for genes dysregulated in the autism post-mortem cortex (Odd Ratio (OR) = 1.11, Pcorrected 10−14), driven entirely by downregulated genes (OR = 1.87, Pcorrected 10−15). We validated the enrichment for downregulated genes in two independent data sets: Validation 1 (OR = 1.44, Pcorrected = 0.004) and Validation 2 (OR = 1.30; Pcorrected = 0.001). We conclude that transcriptionally downregulated genes implicated in autism are robustly associated with global changes in cortical thickness variability in children with autism."
@@ -40,7 +40,6 @@ projects = []
 
 # Links (optional).
 url_pdf = "files/s41380-018-0023-7.pdf"
-url_paper = "http://www.nature.com/articles/s41380-018-0023-7"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -52,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Journal Link", url = "http://www.nature.com/articles/s41380-018-0023-7"}]
 
 # Does the content use math formatting?
 math = true
