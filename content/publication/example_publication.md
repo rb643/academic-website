@@ -16,7 +16,7 @@ authors = ["Rafael Romero-Garcia","Varun Warrier","Edward T. Bullmore","Simon Ba
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Molecular Psychiatry*."
