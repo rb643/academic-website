@@ -27,7 +27,7 @@ abstract = "Differences in cortical morphology—in particular, cortical volume,
 abstract_short = "Integrating cortical thickness morphology in autism with brain gene expression from Allen Institute for Brain Sciences"
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "ImagingGenetics_Method.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "ImagingGenetics_Method.png"
+image = ""
 caption = "My caption 😄"
 
 +++
