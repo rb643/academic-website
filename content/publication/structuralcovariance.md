@@ -2,7 +2,7 @@
 title = "Structural Covariance Networks in Children with Autism or ADHD"
 
 # Date first published.
-date = "2013-07-01"
+date = "2017"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Richard A. I. Bethlehem","Rafael Romero-Garcia","Elijah Mak","Edward T. Bullmore","Simon Baron-Cohen"]
