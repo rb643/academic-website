@@ -24,7 +24,7 @@ publication_short = "In *Mol Psych 2018*"
 
 # Abstract and optional shortened version.
 abstract = "Differences in cortical morphology—in particular, cortical volume, thickness and surface area—have been reported in individuals with autism. However, it is unclear what aspects of genetic and transcriptomic variation are associated with these differences. Here we investigate the genetic correlates of global cortical thickness differences (ΔCT) in children with autism. We used Partial Least Squares Regression (PLSR) on structural MRI data from 548 children (166 with autism, 295 neurotypical children and 87 children with ADHD) and cortical gene expression data from the Allen Institute for Brain Science to identify genetic correlates of ΔCT in autism. We identify that these genes are enriched for synaptic transmission pathways and explain significant variation in ΔCT. These genes are also significantly enriched for genes dysregulated in the autism post-mortem cortex (Odd Ratio (OR) = 1.11, Pcorrected 10−14), driven entirely by downregulated genes (OR = 1.87, Pcorrected 10−15). We validated the enrichment for downregulated genes in two independent data sets: Validation 1 (OR = 1.44, Pcorrected = 0.004) and Validation 2 (OR = 1.30; Pcorrected = 0.001). We conclude that transcriptionally downregulated genes implicated in autism are robustly associated with global changes in cortical thickness variability in children with autism."
-abstract_short = ""
+abstract_short = "Integrating cortical thickness morphology in autism with brain gene expression from Allen Institute for Brain Sciences"
 
 # Featured image thumbnail (optional)
 image_preview = ""
