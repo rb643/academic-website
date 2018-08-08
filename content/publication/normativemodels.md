@@ -2,7 +2,7 @@
 title = "Normative age modelling of cortical thickness in autistic males"
 
 # Date first published.
-date = "2018"
+date = "2018-01-08"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Richard A.I. Bethlehem","Jakob Seidlitz","Rafael Romero-Garcia","Guillaume Dumas","Michael V. Lombardo"]

@@ -2,7 +2,7 @@
 title = "Synaptic and transcriptionally downregulated genes are associated with cortical thickness differences in autism"
 
 # Date first published.
-date = "2018"
+date = "2018-26-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Rafael Romero-Garcia","Varun Warrier","Edward T. Bullmore","Simon Baron-Cohen","Richard A. I. Bethlehem"]
@@ -40,6 +40,7 @@ projects = []
 
 # Links (optional).
 url_pdf = "files/s41380-018-0023-7.pdf"
+url_paper = "http://www.nature.com/articles/s41380-018-0023-7"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
