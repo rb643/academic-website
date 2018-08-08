@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Synaptic and transcriptionally downregulated genes are associated with cortical thickness differences in autism"
 
 # Date first published.
-date = "2013-07-01"
+date = "2017-15-12"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["Rafael Romero-Garcia","Varun Warrier","Edward T. Bullmore","Simon Baron-Cohen","Richard A. I. Bethlehem"]
 
 # Publication type.
 # Legend:
@@ -16,15 +16,15 @@ authors = ["First author's name", "Second author's name"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "In *Molecular Psychiatry*."
+publication_short = "In *Mol Psych*"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+abstract = "Differences in cortical morphology—in particular, cortical volume, thickness and surface area—have been reported in individuals with autism. However, it is unclear what aspects of genetic and transcriptomic variation are associated with these differences. Here we investigate the genetic correlates of global cortical thickness differences (ΔCT) in children with autism. We used Partial Least Squares Regression (PLSR) on structural MRI data from 548 children (166 with autism, 295 neurotypical children and 87 children with ADHD) and cortical gene expression data from the Allen Institute for Brain Science to identify genetic correlates of ΔCT in autism. We identify that these genes are enriched for synaptic transmission pathways and explain significant variation in ΔCT. These genes are also significantly enriched for genes dysregulated in the autism post-mortem cortex (Odd Ratio (OR) = 1.11, Pcorrected 10−14), driven entirely by downregulated genes (OR = 1.87, Pcorrected 10−15). We validated the enrichment for downregulated genes in two independent data sets: Validation 1 (OR = 1.44, Pcorrected = 0.004) and Validation 2 (OR = 1.30; Pcorrected = 0.001). We conclude that transcriptionally downregulated genes implicated in autism are robustly associated with global changes in cortical thickness variability in children with autism"
+abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -36,10 +36,10 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+projects = ["Transcriptomics","Autism","Structural MRI"]
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "files/s41380-018-0023-7.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -62,9 +62,9 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
+image = "img/ImagingGenetics_Method.png"
+caption = "Imaging Genetics"
 
 +++
 
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
+Further details.
